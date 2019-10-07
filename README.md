@@ -1,5 +1,5 @@
 # Dictionary
-Terminal based dictionary
+This is a terminal based dictionary which displays the meaning of the word entered by the user. It scrapes the desired data from web and displays the useful and required information to the user. Here, the useful information is the meaning of the word diplayed by the user.
 
 
 ## Dependencies
